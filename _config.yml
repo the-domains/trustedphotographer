@@ -1,4 +1,3 @@
-layout_spectrum: 0.5486655528657138
 typography_spectrum: 0.43828428629785776
 color:
   brandStrength: 0.3068594147916883
@@ -11,8 +10,10 @@ color:
     - '#CCCC52'
     - '#8FB359'
     - '#192B33'
+layout_spectrum: 0.5486655528657138
 name: trustedphotographer
 navigation:
   - name: Google TP
     url: 'http://www.trustedphotographer.in'
     type: external
+title: Google Trusted Photographer
