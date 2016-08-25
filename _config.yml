@@ -12,3 +12,7 @@ color:
     - '#8FB359'
     - '#192B33'
 name: trustedphotographer
+navigation:
+  - name: Google TP
+    url: 'http://www.trustedphotographer.in'
+    type: external
